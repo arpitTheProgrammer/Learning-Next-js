@@ -1,0 +1,32 @@
+.container{
+    /* border: 1px solid gray; */
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.container input{
+    height: 40px;
+    width: 300px;
+}
+
+.btn{
+    width: 300px;
+    height: 40px;
+    background-color: rgba(57, 57, 255, 0.822);
+    color: white;
+}
+
+.user-item span{
+    display: inline-block;
+    width: 100px;
+}
+.input-field{
+    height: 40px;
+}
+/* .btn{
+    height: 50px;
+    width: 300px;
+} */
